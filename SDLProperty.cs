@@ -1,4 +1,4 @@
-namespace MyBrain.SDLWapper;
+namespace KGS.SDLWapper;
 
 public static class SDLProperty
 {

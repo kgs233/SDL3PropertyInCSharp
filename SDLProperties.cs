@@ -1,7 +1,7 @@
 using SDL;
 using static SDL.SDL3;
 
-namespace MyBrain.SDLWapper;
+namespace KGS.SDLWapper;
 
 public class SDLProperties : IDisposable
 {
